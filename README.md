@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nickyntch
 - 👀 I’m interested in BioTech, Molecular Biology, Genetics, Artificial Intelligence.
-![<Badge Name>] ![<github>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+!<Badge Name> ![<github>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!---
 Nickyntch/Nickyntch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
